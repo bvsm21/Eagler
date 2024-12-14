@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EaglerCraftX Server
 
 ## Credits
@@ -26,3 +27,6 @@ second tab: `cd bungee && sudo java -jar bungee.jar`
 Now go to the ports area and forward (and make public) ports `25565` and `8081`
 <br>
 Your eaglercraft server is setup!
+=======
+# Eagler
+>>>>>>> 3a90a18468e7a56e55197e2de96d2c362ea6ff42
